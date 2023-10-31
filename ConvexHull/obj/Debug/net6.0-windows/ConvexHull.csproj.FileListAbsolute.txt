@@ -1,0 +1,16 @@
+C:\Users\astaf\source\repos\ConvexHull\bin\Debug\net6.0-windows\ConvexHull.exe
+C:\Users\astaf\source\repos\ConvexHull\bin\Debug\net6.0-windows\ConvexHull.deps.json
+C:\Users\astaf\source\repos\ConvexHull\bin\Debug\net6.0-windows\ConvexHull.runtimeconfig.json
+C:\Users\astaf\source\repos\ConvexHull\bin\Debug\net6.0-windows\ConvexHull.dll
+C:\Users\astaf\source\repos\ConvexHull\bin\Debug\net6.0-windows\ConvexHull.pdb
+C:\Users\astaf\source\repos\ConvexHull\obj\Debug\net6.0-windows\ConvexHull.Form1.resources
+C:\Users\astaf\source\repos\ConvexHull\obj\Debug\net6.0-windows\ConvexHull.csproj.GenerateResource.cache
+C:\Users\astaf\source\repos\ConvexHull\obj\Debug\net6.0-windows\ConvexHull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astaf\source\repos\ConvexHull\obj\Debug\net6.0-windows\ConvexHull.AssemblyInfoInputs.cache
+C:\Users\astaf\source\repos\ConvexHull\obj\Debug\net6.0-windows\ConvexHull.AssemblyInfo.cs
+C:\Users\astaf\source\repos\ConvexHull\obj\Debug\net6.0-windows\ConvexHull.csproj.CoreCompileInputs.cache
+C:\Users\astaf\source\repos\ConvexHull\obj\Debug\net6.0-windows\ConvexHull.dll
+C:\Users\astaf\source\repos\ConvexHull\obj\Debug\net6.0-windows\refint\ConvexHull.dll
+C:\Users\astaf\source\repos\ConvexHull\obj\Debug\net6.0-windows\ConvexHull.pdb
+C:\Users\astaf\source\repos\ConvexHull\obj\Debug\net6.0-windows\ConvexHull.genruntimeconfig.cache
+C:\Users\astaf\source\repos\ConvexHull\obj\Debug\net6.0-windows\ref\ConvexHull.dll
